@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.login{
+    background: rgb(14,102,74);
+    background: linear-gradient(90deg, rgba(14,102,74,1) 0%, rgba(24,145,68,1) 50%, rgba(14,102,74,1) 100%);
+}
+
+.home{
+    background: rgb(16,42,101);
+    background: linear-gradient(90deg, rgba(16,42,101,1) 0%, rgba(24,62,145,1) 50%, rgba(16,42,101,1) 100%);
+}
+.register{
+    background: rgb(130,31,56);
+background: linear-gradient(90deg, rgba(130,31,56,1) 0%, rgba(198,14,60,1) 50%, rgba(130,31,56,1) 100%);
+}
+
+.galeria{
+    background: rgb(41,134,164);
+background: linear-gradient(90deg, rgba(41,134,164,1) 0%, rgba(14,195,198,1) 50%, rgba(41,134,164,1) 100%);
+}
+
+.header{
+    background-color: #1252aa;
+}
+.footer{
+    background-color: #1252aa;
+}
+
+.navlink1{
+    background-color: #f62d47;
+}
+
+.todos{
+    background: rgb(64,236,255);
+    background: linear-gradient(90deg, rgba(64,236,255,1) 0%, rgba(173,247,255,1) 50%, rgba(64,236,255,1) 100%);
+}
+.bien{
+    background: rgb(162,255,136);
+    background: linear-gradient(90deg, rgba(162,255,136,1) 0%, rgba(69,237,61,1) 50%, rgba(162,255,136,1) 100%);
+}
+.error{
+    background: rgb(15,2,0);
+    background: linear-gradient(90deg, rgba(15,2,0,1) 0%, rgba(57,9,0,1) 50%, rgba(15,2,0,1) 100%);
+}

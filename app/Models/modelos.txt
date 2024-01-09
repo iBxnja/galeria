@@ -1,0 +1,5 @@
+Los modelos en Laravel son clases que representan y gestionan la interacción con la base de datos.
+Sirven para organizar y manipular los datos de la aplicación de manera eficiente, facilitando la consulta,
+inserción, actualización y eliminación de registros en la base de datos de manera estructurada y orientada
+a objetos. Los modelos también permiten definir relaciones entre tablas, lo que simplifica la manipulación
+de datos relacionados en la aplicación.

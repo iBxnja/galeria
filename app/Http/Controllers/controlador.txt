@@ -1,0 +1,4 @@
+#los controladores son clases PHP que manejan la lógica de aplicación relacionada con las solicitudes HTTP.
+#Estos encapsulan la lógica de manejo de las rutas y permiten organizar de manera estructurada y modular la
+#lógica de negocio de una aplicación web. Los controladores reciben solicitudes y devuelven respuestas, facilitando
+#la separación de preocupaciones en el desarrollo web.
